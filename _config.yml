@@ -28,7 +28,7 @@ url: "menschundumwelt.github.io" # the base hostname & protocol for your site, e
 github_username:  menschundumwelt
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
