@@ -58,4 +58,4 @@ permalink: /insektensterben/
 		
 # Bücher
 
-TODO
+- [Andreas H. Segerer, Eva Rosenkranz; Das große Insektensterben - Was es bedeutet und was wir jetzt tun müssen; ISBN: 978-3-96238-049-6](https://www.oekom.de/buch/das-grosse-insektensterben-9783962380496)

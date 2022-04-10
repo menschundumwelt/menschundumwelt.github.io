@@ -4,9 +4,18 @@ title: Klima - Literatur
 permalink: /klima-literatur/
 ---
 
-## Links zum Thema Klimaerwärmung und regenerative Energieerzeugung
+## Literatur und Daten zum Thema Klimaerwärmung und Energie
+
+### Bücher
+
+- [Rahmstorf, Stefan / Schellnhuber, Hans Joachim; Der Klimawandel - Diagnose, Prognose, Therapie; ISBN: 978-3-406-74376-4](https://www.chbeck.de/rahmstorf-schellnhuber-joachim-klimawandel/product/29507201) - sehr empfehlenswert und kompakt erklärt
+- [Jørgen Randers, Graeme Maxton; Ein Prozent ist genug - Mit wenig Wachstum soziale Ungleichheit, Arbeitslosigkeit und Klimawandel bekämpfen; ISBN: 978-3-86581-810-2](https://www.oekom.de/buch/ein-prozent-ist-genug-9783865818102)
+- <https://www.withouthotair.com/> - Webpage für das Buch "Sustainable Energy – without the hot air" (inkl. Download als PDF), David JC MacKay, 2009, ISBN: 9780954452933 / 978-1-906860-01-1
+- [Sven Linow; Energie – Klima – Ressourcen; ISBN: 978-3-446-46270-0](https://www.hanser-elibrary.com/doi/book/10.3139/9783446462786)
 
 ### The Intergovernmental Panel on Climate Change
+
+Einführung zum IPCC: [Wikipedia-Eintrag zum IPCC](https://de.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change)
 
 Die IPCC Reports werden von drei Arbeitsgruppen erstellt:
 
@@ -24,11 +33,6 @@ Summary Reports:
 - [Climate Change 2021: The Physical Science Basis - Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf)
 - [Climate Change 2022: Impacts, Adaptation and Vulnerability - Summary for Policymakers](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf)
 - [Climate Change 2022: Mitigation of Climate Change - Summary for Policymakers](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf)
-
-
-### Bücher
-
-- <https://www.withouthotair.com/> - Webpage für das Buch "Sustainable Energy – without the hot air" (inkl. Download als PDF), David JC MacKay, 2009, ISBN: 9780954452933 / 978-1-906860-01-1
 
 ### Blogs
 
