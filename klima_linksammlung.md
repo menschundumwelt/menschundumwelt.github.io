@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Klima - Linksammlung
-permalink: /klima-linksammlung/
+title: Klima - Literatur
+permalink: /klima-literatur/
 ---
 
 ## Links zum Thema Klimaerwärmung und regenerative Energieerzeugung
