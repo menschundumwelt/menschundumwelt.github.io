@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Insektensterben - Eine Linksammlung
+title: Insektensterben - Literatursammlung
 permalink: /insektensterben/
 ---
 

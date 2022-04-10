@@ -8,7 +8,7 @@ layout: home
 **Content**
 
 * [About]({% link about.markdown %})
-* [Insektensterben]({% link insektensterben.md %})
-* [Klima Linksammlung]({% link klima_literatur.md %})
-* [Klima Global]({% link klima-global.md %})
-* [Klima - Energie Deutschland]({% link energie-de.md %})
+* [Insektensterben - Literatursammlung]({% link insektensterben.md %})
+* [Klimaerwärmung - Literatur]({% link klima_literatur.md %})
+* [Klimaerwärmung - Quick Facts]({% link klima-global.md %})
+* [Energie in DE - Quick Facts]({% link energie-de.md %})

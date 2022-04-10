@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Energieerzeugung und Verbrauch in Deutschland - Quick Facts
+title: Energie in DE - Quick Facts
 permalink: /energie-de/
 ---
+
+# Energieerzeugung und Verbrauch in Deutschland - Quick Facts
 
 ## Endenergieverbrauch in Deutschland 2020
 
@@ -15,6 +17,6 @@ permalink: /energie-de/
 | Verkehr | 635 | 27,2 |
 | Gewerbe, Handel, Dienstleistungen | 365 | 15,7 |
 
-Quelle:
-
 ![Umweltbundesamt Endenergieverbrauch 2020 nach Sektoren und Energieträgern](https://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/4_abb_eev-sektoren-et_2022-03-25.png)
+
+Quelle: Umweltbundesamt: <https://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/4_abb_eev-sektoren-et_2022-03-25.png>
