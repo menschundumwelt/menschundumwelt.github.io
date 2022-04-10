@@ -4,7 +4,7 @@ title: Klimaerwärmung - Literatur
 permalink: /klima-literatur/
 ---
 
-# Literatur und Daten zum Thema Klimaerwärmung und Energie
+Literatur und Daten zum Thema Klimaerwärmung und Energie
 
 ## Bücher
 
@@ -34,8 +34,10 @@ Summary Reports:
 - [Climate Change 2022: Impacts, Adaptation and Vulnerability - Summary for Policymakers](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf)
 - [Climate Change 2022: Mitigation of Climate Change - Summary for Policymakers](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf)
 
-## Blogs
+## Blogs und Webseiten
 
+- [klimafakten.de](https://www.klimafakten.de) ist eine gemeinsame Initiative der European Climate Foundation und der Stiftung Mercator unter dem Dach der 2050 Media Projekt gGmbH.
+  - gute Kurzerklärung zum Klimawandel: [WAS WIR HEUTE ÜBERS KLIMA WISSEN](https://www.klimafakten.de/meldung/was-wir-heute-uebers-klima-wissen-basisfakten-zum-klimawandel-die-der-wissenschaft)
 - <https://scilogs.spektrum.de/klimalounge/> - Spektrum der Wissenschaft Blog von Stefan Rahmstorf. Stefan Rahmstorf ist Klimatologe und Abteilungsleiter am Potsdam-Institut für Klimafolgenforschung und Professor an der Universität Potsdam. Sein Forschungsschwerpunkt liegt auf Klimaänderungen in der Erdgeschichte und der Rolle der Ozeane im Klimawandel.
 - <https://www.realclimate.org/index.php/feed/langswitch_lang/en/> - RealClimate is a commentary site on climate science by working climate scientists for the interested public and journalists.
 

@@ -4,9 +4,6 @@ title: Klimaerwärmung - Quick Facts
 permalink: /klima-facts/
 ---
 
-# Klimaerwärmung - Quick Facts
-
-
 ## Ursachen
 
 Globale menschengemachte Treibhausgasemissionen:
@@ -24,7 +21,7 @@ Quelle: [IPCC - Climate Change 2022: Mitigation of Climate Change - Summary for 
 
 Quelle: [IPCC - Climate Change 2022: Mitigation of Climate Change - Summary for Policymakers](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf)
 
-### Effizienzen
+## Wissen
 
 #### Wirkungsgrade von Antrieben im PKW
 

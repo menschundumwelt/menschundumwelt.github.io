@@ -4,7 +4,7 @@ title: Energie in DE - Quick Facts
 permalink: /energie-de/
 ---
 
-# Energieerzeugung und Verbrauch in Deutschland - Quick Facts
+Quick Facts zu Energieerzeugung und Verbrauch in Deutschland
 
 ## Endenergieverbrauch in Deutschland 2020
 
