@@ -51,7 +51,7 @@ permalink: /insektensterben/
 - [Worldwide decline of the entomofauna: A review of its drivers](https://www.sciencedirect.com/science/article/abs/pii/S0006320718313636)
 	- PDF Download: <http://kanat.jsc.vsc.edu/env2080/papers/sanchezbayo2019.pdf>
 - Weitere Studien (Sammlung): <http://www.bund-rvso.de/insektensterben-quellen-studien-ursachen.html>
-- Video: [„Wie viel‘ Vögel sind noch da?“](https://youtu.be/y-c-vk5ms5A) | Peter Berthold | SWR Tele-Akademie
+- Video: [„Wie viel‘ Vögel sind noch da?“](https://youtu.be/y-c-vk5ms5A), Peter Berthold, SWR Tele-Akademie
 - Harvey, J.A., Heinen, R., Armbrecht, I. et al. International scientists formulate a roadmap for insect conservation and recovery. Nat Ecol Evol (2020): <https://doi.org/10.1038/s41559-019-1079-8>
 - welt.de: <https://www.welt.de/wissenschaft/article188740427/Bienen-Volksbegehren-Wer-ist-Schuld-am-Insektensterben.html>
 - <https://farmlandbirds.net/sites/default/files/Decline%20flying%20insects.pdf>
