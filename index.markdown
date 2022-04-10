@@ -9,3 +9,6 @@ layout: home
 
 * [About]({% link about.markdown %})
 * [Insektensterben]({% link insektensterben.md %})
+* [Klima Linksammlung]({% link klima_linksammlung.md %})
+* [Klima Global]({% link klima-global.md %})
+* [Klima - Energie Deutschland]({% link energie-de.md %})
