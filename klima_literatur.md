@@ -36,6 +36,7 @@ Summary Reports:
 
 ## Blogs und Webseiten
 
+- [Klimakrise Schnelldurchlauf](https://klimakrise-schnelldurchlauf.mandrasch.eu/) von M. Andrasch
 - [klimafakten.de](https://www.klimafakten.de) ist eine gemeinsame Initiative der European Climate Foundation und der Stiftung Mercator unter dem Dach der 2050 Media Projekt gGmbH.
   - gute Kurzerklärung zum Klimawandel: [WAS WIR HEUTE ÜBERS KLIMA WISSEN](https://www.klimafakten.de/meldung/was-wir-heute-uebers-klima-wissen-basisfakten-zum-klimawandel-die-der-wissenschaft)
 - <https://scilogs.spektrum.de/klimalounge/> - Spektrum der Wissenschaft Blog von Stefan Rahmstorf. Stefan Rahmstorf ist Klimatologe und Abteilungsleiter am Potsdam-Institut für Klimafolgenforschung und Professor an der Universität Potsdam. Sein Forschungsschwerpunkt liegt auf Klimaänderungen in der Erdgeschichte und der Rolle der Ozeane im Klimawandel.
