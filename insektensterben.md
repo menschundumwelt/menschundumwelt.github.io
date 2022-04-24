@@ -34,6 +34,7 @@ permalink: /insektensterben/
 
 ## Links
 
+- [Wikipedia.de](https://de.wikipedia.org/wiki/Insektensterben) mit sehr ausführlichem Quellenverzeichnis
 - Interessanter Überblick: <https://www.addendum.org/pestizide/> inbesondere: <https://www.addendum.org/pestizide/gutes-gift-und-boeses-gift/>
 - [Pressemitteilung zu einer Untersuchung der Europäischen Behörde für Lebensmittelsicherheit (Efsa) zu Insektiziden](https://www.efsa.europa.eu/en/press/news/180228)
 - [Naturkundemuseum Stuttgart: 9-Punkte-Plan gegen das Insektensterben](https://www.naturkundemuseum-bw.de/sites/default/files/presse/9-punkte_plan_gegen_das_insektensterben_19_okt_2018_0.pdf):

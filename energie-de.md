@@ -19,4 +19,4 @@ Quick Facts zu Energieerzeugung und Verbrauch in Deutschland
 
 ![Umweltbundesamt Endenergieverbrauch 2020 nach Sektoren und Energieträgern](https://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/4_abb_eev-sektoren-et_2022-03-25.png)
 
-Quelle: Umweltbundesamt: <https://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/4_abb_eev-sektoren-et_2022-03-25.png>
+Quelle: Umweltbundesamt: <https://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/4_abb_eev-sektoren-et_2022-03-25.png> auf Seite [Energieverbrauch nach Energieträgern und Sektoren](https://www.umweltbundesamt.de/daten/energie/energieverbrauch-nach-energietraegern-sektoren#entwicklung-des-endenergieverbrauchs-nach-sektoren-und-energietragern)
