@@ -20,19 +20,24 @@ Einführung zum IPCC: [Wikipedia-Eintrag zum IPCC](https://de.wikipedia.org/wiki
 Die IPCC Reports werden von drei Arbeitsgruppen erstellt:
 
 - Working Group I – The Physical Science Basis
+  - Webseite mit allen Dateien des 6. Reports: <https://www.ipcc.ch/report/ar6/wg1/>
+  - Summary Report: [Climate Change 2021: The Physical Science Basis - Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
+
 - Working Group II – Impacts, Adaptation, and Vulnerability
+  - Webseite mit allen Dateien des 6. Reports: <https://www.ipcc.ch/report/ar6/wg2/>
+  - Summary Report: [Climate Change 2022: Impacts, Adaptation and Vulnerability - Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf)
+
+
 - Working Group III – Mitigation of Climate Change
+  - Webseite mit allen Dateien des 6. Reports: <https://www.ipcc.ch/report/ar6/wg3/>
+  - Summary Report: [Climate Change 2022: Mitigation of Climate Change - Summary for Policymakers](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf)
+
 
 Webseite:
 
 - UN - The Intergovernmental Panel on Climate Change: <https://www.ipcc.ch/>
 - RSS Feed: https://www.ipcc.ch/feed
 
-Summary Reports:
-
-- [Climate Change 2021: The Physical Science Basis - Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf), Webseite mit allen Dateien: <https://www.ipcc.ch/report/ar6/wg1/>
-- [Climate Change 2022: Impacts, Adaptation and Vulnerability - Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf), Webseite mit allen Dateien: <https://www.ipcc.ch/report/ar6/wg2/>
-- [Climate Change 2022: Mitigation of Climate Change - Summary for Policymakers](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf), Webseite mit allen Dateien: <https://www.ipcc.ch/report/ar6/wg3/>
 
 ## Blogs und Webseiten
 
