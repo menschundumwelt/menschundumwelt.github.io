@@ -55,3 +55,7 @@ Summary Reports:
 - [Agorameter](https://www.agora-energiewende.de/service/agorameter) mit tagesaktuellen Zahlen zu Stromverbrauch und -erzeugung (Agora Energiewende)
 - [Energy-Charts](https://energy-charts.info) des [Fraunhofer-Institut für Solare Energiesysteme ISE](https://ise.fraunhofer.de/)
 - [Electricity Map für Deutschland](https://app.electricitymap.org/zone/DE) vom Unternehmen electricityMap (Copenhagen)
+
+### Waermepumpen
+
+- Fraunhofer-Institut für Solare Energiesysteme (ISE) zu Wärmepumpen und deren Einsatzmöglichkeiten in verschiedenen Szenarien: <https://www.ise.fraunhofer.de/de/leitthemen/waermepumpen.html>
