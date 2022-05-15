@@ -30,9 +30,9 @@ Webseite:
 
 Summary Reports:
 
-- [Climate Change 2021: The Physical Science Basis - Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf)
-- [Climate Change 2022: Impacts, Adaptation and Vulnerability - Summary for Policymakers](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf)
-- [Climate Change 2022: Mitigation of Climate Change - Summary for Policymakers](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf)
+- [Climate Change 2021: The Physical Science Basis - Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf), Webseite mit allen Dateien: <https://www.ipcc.ch/report/ar6/wg1/>
+- [Climate Change 2022: Impacts, Adaptation and Vulnerability - Summary for Policymakers](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf), Webseite mit allen Dateien: <https://www.ipcc.ch/report/ar6/wg2/>
+- [Climate Change 2022: Mitigation of Climate Change - Summary for Policymakers](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf), Webseite mit allen Dateien: <https://www.ipcc.ch/report/ar6/wg3/>
 
 ## Blogs und Webseiten
 
