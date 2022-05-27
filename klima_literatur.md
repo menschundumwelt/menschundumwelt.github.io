@@ -64,3 +64,7 @@ Webseite:
 ### Waermepumpen
 
 - Fraunhofer-Institut für Solare Energiesysteme (ISE) zu Wärmepumpen und deren Einsatzmöglichkeiten in verschiedenen Szenarien: <https://www.ise.fraunhofer.de/de/leitthemen/waermepumpen.html>
+
+### Klimafreundlich(er) investieren
+
+- Ein Projekt von Facing Finance und urgewald um die wirkliche Klimafreundlichkeit von Investmentfonds transparent(er) zu machen: <https://www.faire-fonds.info/>
