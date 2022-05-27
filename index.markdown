@@ -7,7 +7,7 @@ layout: home
 
 **Content**
 
-* [About]({% link about.markdown %})
+* [Über diese Seite]({% link about.markdown %})
 * [Insektensterben - Literatursammlung]({% link insektensterben.md %}) zum Thema (Studien, Bücher, Links zu interessanten Webseiten)
 * [Klimaerwärmung - Literatur]({% link klima_literatur.md %}) zum Thema, u.a. Bücher, Links zu IPCC Studien, Blogs, Webseiten, insbesondere auch mit Bezug zu Deutschland
 * [Klimaerwärmung - Quick Facts]({% link klima-global.md %}) zu Ursachen und Maßnahmen
