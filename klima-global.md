@@ -23,7 +23,11 @@ Quelle: [IPCC - Climate Change 2022: Mitigation of Climate Change - Summary for 
 
 ## Wissen
 
-#### Wirkungsgrade von Antrieben im PKW
+### Emissionen bei PKW
+
+- Video von Sven Linow zum Thema wie sich Emissionen bei PKW am effektivsten reduzieren lassen: <https://youtu.be/dkM8kzPSp5k>
+
+### Wirkungsgrade von Antrieben im PKW
 
 | Antrieb | Wirkungsgrad |
 | ---- | ---- |
